@@ -1,5 +1,6 @@
 # Build NodeJS Express app using Azure Pipelines by me
 # https://docs.microsoft.com/azure/devops/pipelines/languages/javascript?view=vsts
+# comment by me
 pool:
   vmImage: 'Ubuntu 16.04'
   
